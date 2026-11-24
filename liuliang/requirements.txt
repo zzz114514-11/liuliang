@@ -1,0 +1,5 @@
+# 网站访问日志可视化分析工具 - Python 依赖
+# 安装：pip install -r requirements.txt
+# （推荐使用国内镜像：pip install -r requirements.txt -i https://mirrors.cloud.tencent.com/pypi/simple）
+
+flask==3.1.3
